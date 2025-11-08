@@ -1,0 +1,10 @@
+[Version]
+Encrypted=1
+Launcher=LauncherA.dat
+PackageSize=100,342,728
+PackageCount=2
+Blocker=0
+LauncherUpdateRequired=0
+VersionNumber=0.99.916
+UpdatedFromVersion=0.99.917a7
+SaveGame=0
